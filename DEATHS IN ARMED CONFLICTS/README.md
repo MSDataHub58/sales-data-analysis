@@ -59,7 +59,7 @@ The project also contains an Excel-based analysis of the dataset.
 
 ### Excel Preview
 
-![Excel Dashboard](DEATHS%20IN%20ARMED%20CONFLICTS/Deaths%20In%20Armed%20Conflicts%20%28Excel%29.png)
+![Excel Dashboard](https://github.com/MSDataHub58/sales-data-analysis/blob/2f7f3f3fbbd362d21584e5e9626ebe68fbb18832/DEATHS%20IN%20ARMED%20CONFLICTS/Deaths%20In%20Armed%20Conflicts%20(Excel).png)
 
 ## 🔍 Key Insights
 
