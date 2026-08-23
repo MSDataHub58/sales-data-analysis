@@ -14,7 +14,7 @@ This repository contains my projects in:
 ## 📁 Projects
 
 ### 1. Deaths in Armed Conflicts
-Analysis of conflict-related deaths from 1989–2024 using Excel and Power bi. [DEATHS IN ARMED CONFLICTS](https://github.com/MSDataHub58/sales-data-analysis/tree/d1c507a1f232c182e1affb04922e6a7a7ea24e03/DEATHS%20IN%20ARMED%20CONFLICTS)
+Analysis of conflict-related deaths from 1989–2024 using Excel and Power bi. 
 ---
 
 ## 👨‍💻 About Me
