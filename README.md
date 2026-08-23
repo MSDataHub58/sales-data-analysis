@@ -25,5 +25,5 @@ Aspiring Data Analyst | Excel | Power Query | Power BI | Tableau
 
 📍 Islamabad, Pakistan
 
-**GitHub:** github.com/MSDataHub58  
-**LinkedIn:** linkedin.com/in/m-saad-0208ms58/
+**GitHub:**  https://github.com/MSDataHub58
+**LinkedIn:** https://www.linkedin.com/in/m-saad-0208ms58/
