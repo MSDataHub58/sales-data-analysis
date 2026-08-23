@@ -51,7 +51,7 @@ The dashboard provides:
 
 ### Dashboard Preview
 
-![Power BI Dashboard](DEATHS%20IN%20ARMED%20CONFLICTS/Deaths%20In%20Armed%20Conflicts%20%28Power%20Bi%29.png)
+![Power BI Dashboard](https://github.com/MSDataHub58/sales-data-analysis/blob/d53b8838cb6ee4d61298d0a7843c3e6f166bf3d9/DEATHS%20IN%20ARMED%20CONFLICTS/Deaths%20In%20Armed%20Conflicts%20(Power%20Bi).png)
 
 ## 📈 Excel Analysis
 
