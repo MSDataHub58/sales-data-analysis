@@ -15,6 +15,7 @@ This repository contains my projects in:
 
 ### 1. Deaths in Armed Conflicts
 Analysis of conflict-related deaths from 1989–2024 using Excel and Power bi. 
+👉 [View Project](./DEATHS%20IN%20ARMED%20CONFLICTS/)
 ---
 
 ## 👨‍💻 About Me
