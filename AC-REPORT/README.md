@@ -35,7 +35,8 @@ The main dashboard includes:
 * Interactive Year Filters
 * Sales vs. Volume Analysis
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](https://github.com/MSDataHub58/sales-data-analysis/blob/076b979dc7ca4c61fb8f7a9df8384588fe77f348/AC-REPORT/AC-REPORT%201.png
+)
 
 ## 💡 Key Insights
 
@@ -51,7 +52,7 @@ Several salespeople from the **Delish** team contribute strongly to overall sale
 
 Sales revenue generally moves with box volume, suggesting that higher sales volume is an important driver of overall revenue.
 
-![Key Business Insights](images/insights.png)
+![Key Business Insights](https://github.com/MSDataHub58/sales-data-analysis/blob/076b979dc7ca4c61fb8f7a9df8384588fe77f348/AC-REPORT/AC-PEPORT%202.png)
 
 ## 🚀 Recommendations
 
@@ -67,7 +68,7 @@ Analyze the strategies of high-performing salespeople who generate strong revenu
 
 Prepare additional inventory and production capacity before high-demand periods to reduce the risk of stock shortages while maintaining efficient inventory levels.
 
-![Actionable Recommendations](images/recommendations.png)
+![Actionable Recommendations](https://github.com/MSDataHub58/sales-data-analysis/blob/076b979dc7ca4c61fb8f7a9df8384588fe77f348/AC-REPORT/AC-REPORT%203.png)
 
 ## 📂 Project Structure
 
