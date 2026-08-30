@@ -18,6 +18,10 @@ Analysis of conflict-related deaths from 1989–2024 using Excel and Power bi.
 👉 [View Project](./DEATHS%20IN%20ARMED%20CONFLICTS/)
 ---
 
+### 2. Awesome Chocolates Sales Report
+Sales analysis and business intelligence project using Power BI.
+
+🔗 [View Project]()
 ## 👨‍💻 About Me
 
 **M SAAD**  
